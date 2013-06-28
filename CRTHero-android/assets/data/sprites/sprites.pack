@@ -1,0 +1,61 @@
+
+sprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+asteroid
+  rotate: false
+  xy: 1, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 0
+asteroid
+  rotate: false
+  xy: 67, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+asteroid
+  rotate: false
+  xy: 133, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+asteroid
+  rotate: false
+  xy: 199, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+asteroid
+  rotate: false
+  xy: 265, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+player
+  rotate: false
+  xy: 1, 1
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+circleParticle
+  rotate: false
+  xy: 331, 75
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 50, 9
+  size: 5, 32
+  orig: 5, 32
+  offset: 0, 0
+  index: -1
