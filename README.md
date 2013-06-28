@@ -1,4 +1,5 @@
 Platformer-Demo---LibGDX
+By Anthony Del Ciotto
 ========================
 
 2D Platformer demo written using LibGDX library
